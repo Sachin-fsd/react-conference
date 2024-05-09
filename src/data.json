@@ -1,0 +1,175 @@
+{
+  "users": [
+    {
+      "_id": "660fc05fcb736b51dfec8548",
+      "name": "Sadhna",
+      "email": "coolsadhnasingh089@gmail.com",
+      "password": "$2b$04$gxoIGm5LgTOj9cc5kP.1g.4Uz5C33MXqmuFXUTMQ2CxyNSsp4FOdm",
+      "bio": "The only limit to our realization of tomorrow will be our doubts of today. 📷✈️🏕️",
+      "dp": "https://images.unsplash.com/photo-1707904921194-b776fc1dd3d2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300",
+      "updatedAt": "2024-04-10T16:25:30.190Z"
+    },
+    {
+      "_id": "66155dd4f54253a20d75f67e",
+      "name": "student1",
+      "email": "student1@mail.com",
+      "password": "$2b$04$RzOLqtsbdR4B/Cwl.2BVlem1Bl7Ta26asLcHz25CTC8DqZRp8sgMm",
+      "bio": "The only limit to our realization of tomorrow will be our doubts of today. 📷✈️🏕️",
+      "createdAt": "2024-04-09T15:25:08.478Z",
+      "updatedAt": "2024-04-10T16:25:30.321Z",
+      "dp": "https://images.unsplash.com/photo-1707062596824-019e5ba682f8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+    },
+    {
+      "_id": "6615625b22bc6d63b0565447",
+      "name": "student",
+      "email": "student@mail.com",
+      "password": "$2b$04$uwUcaMArMxJt2/J9TRS0Ou8ZH0KH8SEREBzTKUJEJTA86tkPx5.IW",
+      "bio": "The only limit to our realization of tomorrow will be our doubts of today. 📷✈️🏕️",
+      "createdAt": "2024-04-09T15:44:27.914Z",
+      "updatedAt": "2024-04-10T16:25:30.325Z",
+      "dp": "https://images.unsplash.com/photo-1708439001065-b2947b811cf8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+    },
+    {
+      "_id": "661562de11c2731432dc4c95",
+      "name": "faculty01",
+      "email": "faculty1@gmail.com",
+      "password": "$2b$04$0IHNpU2lwy8TpYr6J3zgeufoXc11wI38I3ZfEY9fF1xMMK2N.62cm",
+      "bio": "Looking the Awesomeness of World and Beyond",
+      "createdAt": "2024-04-09T15:46:38.413Z",
+      "updatedAt": "2024-04-11T05:55:20.838Z",
+      "dp": "https://cdn.pixabay.com/photo/2022/02/26/18/16/peace-7036144_640.png"
+    },
+    {
+      "_id": "6615636611c2731432dc4cb4",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "$2b$04$jjWJd0wdxMCxxqGPnmJ7muXUHCTZhIlQi1UzN2WJ8B6Tnilvsx7Qa",
+      "bio": "The only limit to our realization of tomorrow will be our doubts of today. 📷✈️🏕️",
+      "createdAt": "2024-04-09T15:48:54.295Z",
+      "updatedAt": "2024-04-10T16:25:30.314Z",
+      "dp": "https://images.unsplash.com/photo-1709975399093-16fd367fee9c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+    }
+  ],
+  "messages": [
+    {
+      "_id": "66169f242c49eb2d3b4c24b1",
+      "sender": {
+        "UserID": "661562de11c2731432dc4c95",
+        "UserName": "faculty1",
+        "UserEmail": "faculty1@gmail.com",
+        "UserDp": "https://cdn.pixabay.com/photo/2022/02/26/18/16/peace-7036144_640.png"
+      },
+      "receiver": {
+        "UserID": "65b3b33fd9b626e924ff6781",
+        "UserName": "Someone",
+        "UserEmail": "p4@mail.com",
+        "UserDp": "https://images.unsplash.com/photo-1709730185387-9cac9f8e30e5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+      },
+      "room": "1111122222333334445556666666778999bbbcccdddeefff",
+      "read": false,
+      "CreatedAt": "2024-04-10T14:24:17.061Z"
+    },
+    {
+      "_id": "6616a299ae285fd81fa07c85",
+      "sender": {
+        "UserID": "661562de11c2731432dc4c95",
+        "UserName": "faculty1",
+        "UserEmail": "faculty1@gmail.com",
+        "UserDp": "https://cdn.pixabay.com/photo/2022/02/26/18/16/peace-7036144_640.png"
+      },
+      "receiver": {
+        "UserID": "660e42fe26af6491b023fe8b",
+        "UserName": "parth",
+        "UserEmail": "parthmethi@gmail.com",
+        "UserDp": "https://images.unsplash.com/photo-1710069454964-0edc699bc2ff?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+      },
+      "room": "001111122222233344445566666667899abbcccddeeeefff",
+      "read": false,
+      "CreatedAt": "2024-04-10T14:30:49.219Z"
+    },
+    {
+      "_id": "66177fe422dfccf8be5654af",
+      "sender": {
+        "UserID": "65b7d43f1c66dfe274ccfced",
+        "UserName": "Sachin Singh",
+        "UserEmail": "sachineducational555@gmail.com",
+        "UserDp": "https://images.unsplash.com/photo-1709374601273-57d0a44c9437?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+      },
+      "receiver": {
+        "UserID": "660e42fe26af6491b023fe8b",
+        "UserName": "parth",
+        "UserEmail": "parthmethi@gmail.com",
+        "UserDp": "https://images.unsplash.com/photo-1710069454964-0edc699bc2ff?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+      },
+      "room": "00112222334444566666667789abbbccccdddeeeeeffffff",
+      "read": false,
+      "CreatedAt": "2024-04-11T06:20:07.151Z"
+    },
+    {
+      "_id": "661786b35a164165da59a7b5",
+      "sender": {
+        "UserID": "661562de11c2731432dc4c95",
+        "UserName": "faculty##",
+        "UserEmail": "faculty1@gmail.com",
+        "UserDp": "https://cdn.pixabay.com/photo/2023/06/28/10/53/world-8094131_640.png"
+      },
+      "receiver": {
+        "UserID": "6615636611c2731432dc4cb4",
+        "UserName": "admin",
+        "UserEmail": "admin@gmail.com",
+        "UserDp": "https://images.unsplash.com/photo-1709975399093-16fd367fee9c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+      },
+      "room": "1111111122222333334444455566666666779bccccccddde",
+      "read": false,
+      "CreatedAt": "2024-04-11T06:44:03.206Z"
+    },
+    {
+      "_id": "6617ac84f21e1613150f8492",
+      "sender": {
+        "UserID": "65b7d43f1c66dfe274ccfced",
+        "UserName": "Sachin Singh",
+        "UserEmail": "sachineducational555@gmail.com",
+        "UserDp": "https://images.unsplash.com/photo-1709374601273-57d0a44c9437?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+      },
+      "receiver": {
+        "UserID": "661562de11c2731432dc4c95",
+        "UserName": "faculty##1",
+        "UserEmail": "faculty1@gmail.com",
+        "UserDp": "https://cdn.pixabay.com/photo/2023/07/04/19/43/man-8106958_640.png"
+      },
+      "room": "11111222233344445556666667779bcccccccdddddeeefff",
+      "read": true,
+      "CreatedAt": "2024-04-11T09:35:38.149Z"
+    }
+  ],
+  "posts": [
+    {
+      "_id": "660e381e26af6491b023fd3b",
+      "authorID": "660e377c26af6491b023fd31",
+      "UserDetails": {
+        "UserID": "660e377c26af6491b023fd31",
+        "UserName": "jasmeet",
+        "UserEmail": "sahibvirk@gmail.com",
+        "UserDp": "https://images.unsplash.com/photo-1708902130587-14f58dcd1f44?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+      },
+      "text": "hii",
+      "likeCount": 0,
+      "CreatedAt": "2024-04-04T05:18:22.858Z"
+    },
+    {
+      "_id": "660e387326af6491b023fd5d",
+      "authorID": "660e382d26af6491b023fd47",
+      "UserDetails": {
+        "UserID": "660e382d26af6491b023fd47",
+        "UserName": "KAVYANSH",
+        "UserEmail": "kavyanshsnghking@gmail.com",
+        "UserDp": "https://images.unsplash.com/photo-1708918025180-627a6b2fc8af?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTcxMjc2NjMyNw&ixlib=rb-4.0.3&q=80&w=300"
+      },
+      "text": "how are you sachin",
+      "likeCount": 0,
+      "CreatedAt": "2024-04-04T05:19:47.798Z"
+    }
+  ]
+}
+
+
